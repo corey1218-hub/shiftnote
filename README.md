@@ -6,6 +6,9 @@
 
 ## 開啟
 
+正式網站：[https://corey1218-hub.github.io/shiftnote/](https://corey1218-hub.github.io/shiftnote/)
+
+
 直接開啟 index.html，不需要安裝套件。正式執行只有這一個檔案，CSS、JavaScript、圖示與範例均內嵌，沒有外部 CDN、API 或後端。
 
 使用最新版的 Chrome、Edge、Firefox 或 Safari。瀏覽器對直接開啟本機檔案的資料儲存行為可能不同，正式驗收以 GitHub Pages 的 HTTPS 網址為準。
@@ -24,16 +27,9 @@
 
 分類功能不是 AI 模型或設備診斷，不會自行決定故障原因、修復方式或設備放行。資料只在使用者自己的瀏覽器保存，沒有多人同步。
 
-## GitHub Pages 設定
+## 發布
 
-1. 在自己的 GitHub 帳號建立新的公開 repository，例如 shiftnote。
-2. 上傳 index.html 至 main 分支根目錄。請保留檔名，不要改成其他名稱。
-3. 開啟 repository 的 Settings → Pages。
-4. Source 選 Deploy from a branch，Branch 選 main，Folder 選 /(root)，按 Save。
-5. 等待部署完成後，開啟 Pages 顯示的正式網址。以此網址提交作業，不要只貼程式庫網址。
-6. 在正式網址操作新增、搜尋、重新整理及匯出，再截取介面。
-
-官方說明：https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+本專案已使用 GitHub Pages 公開，來源為 main 分支的 /(root)。正式執行只需要 index.html，其他檔案為規格、修改紀錄與測試資料。
 
 ## 檔案
 
